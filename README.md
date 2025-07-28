@@ -1,6 +1,6 @@
 # EU4 Autobackup
 
-![alt text](image.png)
+<img width="1115" height="628" alt="grafik" src="https://github.com/user-attachments/assets/5c2ce770-69ea-4e76-871c-54fc421a313b" />
 
 A robust, user-friendly Python script to automatically back up your Europa Universalis IV (EU4) multiplayer autosave files. Designed for flexibility across different setups, with onboarding, auto-detection, and an interactive CLI menu.
 
