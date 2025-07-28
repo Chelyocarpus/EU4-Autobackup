@@ -58,4 +58,4 @@ A robust, user-friendly Python script to automatically back up your Europa Unive
 - The script is safe to run alongside EU4 multiplayer sessions.
 
 ## License
-MIT License. See file for details.# 🎮 EU4 Autosave Backup Tool
+MIT License. See file for details.
